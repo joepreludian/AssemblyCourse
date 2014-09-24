@@ -6,3 +6,6 @@ Os exercícios podem ser executados através do EdSim51, um simulador em Java do
 
 [Site do EdSim51](http://www.edsim51.com)
 
+# Links Uteis
+
+* http://www.8052.com/tut8051.php
